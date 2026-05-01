@@ -20,7 +20,8 @@ export const SITE = {
   // Admin WhatsApp — receives every checkout's order ticket via wa.me
   // deep-link. Owner: change via VITE_WHATSAPP_NUMBER for production.
   adminWhatsapp: env.VITE_WHATSAPP_NUMBER || '+91 70043 69269',
-  email: 'hello@biryaniincage.in',
+  email: 'hello@biryaniincage.com',
+  url: 'https://www.biryaniincage.com',
   links: {
     zomato: env.VITE_ZOMATO_URL || 'https://www.zomato.com/',
     swiggy: env.VITE_SWIGGY_URL || 'https://www.swiggy.com/',

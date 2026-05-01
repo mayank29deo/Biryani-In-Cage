@@ -1,8 +1,10 @@
 # Biryani In Cage
 
-The web platform for **Biryani In Cage** — Deoghar's #1 themed biryani restaurant. Multi-cuisine, veg & non-veg, slow-dum biryani. The site is built to convert: every page lands the visitor on either Zomato, Swiggy, or a phone call.
+The web platform for **[Biryani In Cage](https://www.biryaniincage.com/)** — Deoghar's #1 themed biryani restaurant. Multi-cuisine, veg & non-veg, slow-dum biryani. The site is built to convert: every page lands the visitor on direct order, Zomato, Swiggy, or a phone call.
 
 > Caged in flavour. Set free in every bite.
+
+**Production**: <https://www.biryaniincage.com/>
 
 ---
 

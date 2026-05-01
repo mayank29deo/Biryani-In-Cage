@@ -80,7 +80,7 @@ export function formatOrderMessage({ order, items, totals, orderId }) {
 
   lines.push('');
   lines.push(`Placed at ${formatTimestamp()}`);
-  lines.push('Order placed via website');
+  lines.push('Order placed via biryaniincage.com');
 
   return lines.join('\n');
 }
