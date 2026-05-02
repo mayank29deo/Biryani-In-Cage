@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { ArrowDown, Star, Sparkles, ArrowRight } from 'lucide-react';
+import { ArrowDown, Star, ArrowRight } from 'lucide-react';
 import CageBars from '@/components/ui/CageBars';
 import { NeonWordmark } from '@/components/ui/NeonText';
 import MagneticButton from '@/components/ui/MagneticButton';
@@ -67,7 +67,6 @@ export default function Hero() {
           transition={{ delay: 2.05, duration: 0.6 }}
           className="mt-7 inline-flex items-center gap-2 rounded-full border border-emerald-400/30 bg-emerald-400/5 px-4 py-1.5 text-[11px] uppercase tracking-[0.22em] text-emerald-200 sm:text-xs"
         >
-          <Sparkles size={11} className="text-emerald-300" />
           Save more · No platform fee · No hidden charges
         </motion.div>
 
